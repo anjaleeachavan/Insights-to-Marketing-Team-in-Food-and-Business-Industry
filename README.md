@@ -21,4 +21,5 @@ Excel
 ➡️Codex Average Rating is 3.3 which indicates a neutral perception, meaning there is an opportunity for brand differentiation and improvement.<br>
 ➡️Codex should focus on the following cities for growth Ahmedabad ,Delhi,Jaipur,Lucknow,Kolkata and Pune as these cities have lower market penetration.
 
-
+## 📊Excel Dashboard:
+![image_alt](https://github.com/anjaleeachavan/Insights-to-Marketing-Team-in-Food-and-Business-Industry/blob/670773baa1c25739fb414d88d2491c955b08a074/Screenshot%202025-04-03%20184049.png)
